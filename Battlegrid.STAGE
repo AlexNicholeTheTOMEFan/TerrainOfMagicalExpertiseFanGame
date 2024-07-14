@@ -1,0 +1,4 @@
+Stage Name = "Battlegrid"
+Filename = Battlegrid.STAGE
+Sprite Name = Grid_bg.PNG
+Indestructible = False
