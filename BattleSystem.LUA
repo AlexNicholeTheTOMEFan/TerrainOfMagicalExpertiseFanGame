@@ -1,12 +1,14 @@
 -- Define player and enemy data structures
 local Player = NormalNavi {
   hp = 100,
+  sprite = normalnavi.png
   chips = {},
   selectedChip = nil,
 }
 
 local Enemy = Mettaur {
   hp = 150,
+  sprites = mettaur.png
   name = "Mett",
 }
 
