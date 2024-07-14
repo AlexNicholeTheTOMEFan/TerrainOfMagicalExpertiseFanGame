@@ -1,9 +1,9 @@
 -- Define player and enemy data structures
-local Player = {
+local Player = Samurai Robot {
   x = 0,
   y = 0,
   state = "Idle", -- Current animation state
-  animations = {}, -- Table to store animation data
+  animations = {Idle.png}, -- Table to store animation data
   health = 100,
 }
 
