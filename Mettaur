@@ -1,0 +1,5 @@
+Monster Name = Mettaur
+Filename = Mettaur.MON
+Sprite Name = Mettaur.PNG
+Monster Type = Training Dummy Monster
+Attack = True
