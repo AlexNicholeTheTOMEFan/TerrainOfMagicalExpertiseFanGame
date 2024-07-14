@@ -11,7 +11,7 @@ local Enemy = {
   x = 100,
   y = 0,
   state = "Idle",
-  animations = {},
+  animations = {Idle.png},
   health = 100,
 }
 
